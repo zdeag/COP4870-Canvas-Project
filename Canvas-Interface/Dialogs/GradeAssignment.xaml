@@ -1,0 +1,21 @@
+﻿<ContentDialog
+    x:Class="Canvas_Interface.Dialogs.GradeAssignment"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Canvas_Interface.Dialogs"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="Grade the Assignment"
+    PrimaryButtonText="Save"
+    SecondaryButtonText="Cancel"
+    PrimaryButtonClick="ContentDialog_PrimaryButtonClick"
+    SecondaryButtonClick="ContentDialog_SecondaryButtonClick">
+
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Name="GiveGrade" Text="Assignment Grade" Style="{StaticResource TitleTextBlockStyle}" />
+            <TextBox Text="{Binding totalPointsGiven, Mode=TwoWay}" />
+        </StackPanel>
+    </Grid>
+</ContentDialog>

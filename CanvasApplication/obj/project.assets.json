@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zdeag\\source\\repos\\CanvasApplication\\CanvasApplication\\CanvasApplication.csproj",
+      "projectUniqueName": "C:\\Users\\zdeag\\source\\repos\\New-Canvas-Apllication\\CanvasApplication\\CanvasApplication.csproj",
       "projectName": "CanvasApplication",
-      "projectPath": "C:\\Users\\zdeag\\source\\repos\\CanvasApplication\\CanvasApplication\\CanvasApplication.csproj",
+      "projectPath": "C:\\Users\\zdeag\\source\\repos\\New-Canvas-Apllication\\CanvasApplication\\CanvasApplication.csproj",
       "packagesPath": "C:\\Users\\zdeag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zdeag\\source\\repos\\CanvasApplication\\CanvasApplication\\obj\\",
+      "outputPath": "C:\\Users\\zdeag\\source\\repos\\New-Canvas-Apllication\\CanvasApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,14 +52,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\zdeag\\source\\repos\\CanvasApplication\\Class.Library\\Class.Library.csproj": {
-              "projectPath": "C:\\Users\\zdeag\\source\\repos\\CanvasApplication\\Class.Library\\Class.Library.csproj"
+            "C:\\Users\\zdeag\\source\\repos\\New-Canvas-Apllication\\Class.Library\\Class.Library.csproj": {
+              "projectPath": "C:\\Users\\zdeag\\source\\repos\\New-Canvas-Apllication\\Class.Library\\Class.Library.csproj"
             }
           }
         }

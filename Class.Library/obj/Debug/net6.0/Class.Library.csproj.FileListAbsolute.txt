@@ -10,3 +10,15 @@ C:\Users\zdeag\source\repos\CanvasApplication\Class.Library\obj\Debug\net6.0\Cla
 C:\Users\zdeag\source\repos\CanvasApplication\Class.Library\obj\Debug\net6.0\refint\Class.Library.dll
 C:\Users\zdeag\source\repos\CanvasApplication\Class.Library\obj\Debug\net6.0\Class.Library.pdb
 C:\Users\zdeag\source\repos\CanvasApplication\Class.Library\obj\Debug\net6.0\ref\Class.Library.dll
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\Class.Library\bin\Debug\net6.0\Class.Library.deps.json
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\Class.Library\bin\Debug\net6.0\Class.Library.dll
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\Class.Library\bin\Debug\net6.0\Class.Library.pdb
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\Class.Library\obj\Debug\net6.0\Class.Library.csproj.AssemblyReference.cache
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\Class.Library\obj\Debug\net6.0\Class.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\Class.Library\obj\Debug\net6.0\Class.Library.AssemblyInfoInputs.cache
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\Class.Library\obj\Debug\net6.0\Class.Library.AssemblyInfo.cs
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\Class.Library\obj\Debug\net6.0\Class.Library.csproj.CoreCompileInputs.cache
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\Class.Library\obj\Debug\net6.0\Class.Library.dll
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\Class.Library\obj\Debug\net6.0\refint\Class.Library.dll
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\Class.Library\obj\Debug\net6.0\Class.Library.pdb
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\Class.Library\obj\Debug\net6.0\ref\Class.Library.dll

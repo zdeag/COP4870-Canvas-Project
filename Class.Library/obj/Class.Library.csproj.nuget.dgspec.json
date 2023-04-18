@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zdeag\\source\\repos\\CanvasApplication\\Class.Library\\Class.Library.csproj": {}
+    "C:\\Users\\zdeag\\source\\repos\\New-Canvas-Apllication\\Class.Library\\Class.Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zdeag\\source\\repos\\CanvasApplication\\Class.Library\\Class.Library.csproj": {
+    "C:\\Users\\zdeag\\source\\repos\\New-Canvas-Apllication\\Class.Library\\Class.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zdeag\\source\\repos\\CanvasApplication\\Class.Library\\Class.Library.csproj",
+        "projectUniqueName": "C:\\Users\\zdeag\\source\\repos\\New-Canvas-Apllication\\Class.Library\\Class.Library.csproj",
         "projectName": "Class.Library",
-        "projectPath": "C:\\Users\\zdeag\\source\\repos\\CanvasApplication\\Class.Library\\Class.Library.csproj",
+        "projectPath": "C:\\Users\\zdeag\\source\\repos\\New-Canvas-Apllication\\Class.Library\\Class.Library.csproj",
         "packagesPath": "C:\\Users\\zdeag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zdeag\\source\\repos\\CanvasApplication\\Class.Library\\obj\\",
+        "outputPath": "C:\\Users\\zdeag\\source\\repos\\New-Canvas-Apllication\\Class.Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

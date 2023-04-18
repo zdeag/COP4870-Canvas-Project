@@ -1,0 +1,24 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "UWP2.1.Library.CanvasApplication/1.0.0": {
+        "runtime": {
+          "UWP2.1.Library.CanvasApplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UWP2.1.Library.CanvasApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,5 @@
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\UWP.Library.CanvasApplication\obj\Debug\netstandard2.0\UWP.Library.CanvasApplication.csproj.AssemblyReference.cache
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\UWP.Library.CanvasApplication\obj\Debug\netstandard2.0\UWP.Library.CanvasApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\UWP.Library.CanvasApplication\obj\Debug\netstandard2.0\UWP.Library.CanvasApplication.AssemblyInfoInputs.cache
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\UWP.Library.CanvasApplication\obj\Debug\netstandard2.0\UWP.Library.CanvasApplication.AssemblyInfo.cs
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\UWP.Library.CanvasApplication\obj\Debug\netstandard2.0\UWP.Library.CanvasApplication.csproj.CoreCompileInputs.cache

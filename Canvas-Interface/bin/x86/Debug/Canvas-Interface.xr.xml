@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.PropertyPathNames>
+    <RootPropertyPathName Name="CreditHours" />
+    <RootPropertyPathName Name="Description" />
+    <RootPropertyPathName Name="Name" />
+    <RootPropertyPathName Name="Code" />
+    <RootPropertyPathName Name="announcementContent" />
+    <RootPropertyPathName Name="DueDate" />
+    <RootPropertyPathName Name="TotalAvailablePoints" />
+    <RootPropertyPathName Name="AssignmentWeight" />
+    <RootPropertyPathName Name="Path" />
+    <RootPropertyPathName Name="HtmlBody" />
+    <RootPropertyPathName Name="StudentName" />
+    <RootPropertyPathName Name="Assignments" />
+    <RootPropertyPathName Name="SelectedAssignment" />
+    <RootPropertyPathName Name="AssignmentGroups" />
+    <RootPropertyPathName Name="SelectedAssignmentGroup" />
+    <RootPropertyPathName Name="ModuleList" />
+    <RootPropertyPathName Name="SelectedModule" />
+    <RootPropertyPathName Name="CourseList" />
+    <RootPropertyPathName Name="SelectedCourse" />
+    <RootPropertyPathName Name="Announcements" />
+    <RootPropertyPathName Name="SelectedAnnouncement" />
+    <RootPropertyPathName Name="ContentItems" />
+    <RootPropertyPathName Name="SelectedContentItem" />
+  </Roots.PropertyPathNames>
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ContentDialog">
+      <RootProperty Name="Title" />
+      <RootProperty Name="PrimaryButtonText" />
+      <RootProperty Name="SecondaryButtonText" />
+      <RootProperty Name="Content" />
+      <RootEvent Name="PrimaryButtonClick" />
+      <RootEvent Name="SecondaryButtonClick" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Children" />
+      <RootProperty Name="RowDefinitions" />
+      <RootProperty Name="ColumnDefinitions" />
+      <RootMethod Name="GetColumn" />
+      <RootMethod Name="SetColumn" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="Text" />
+      <RootProperty Name="Style" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
+      <RootProperty Name="Text" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Data.Binding">
+      <RootProperty Name="Mode" />
+      <RootProperty Name="Path" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.StaticResourceExtension" />
+    <RootType FullName="Canvas_Interface.Dialogs.CourseCreate" />
+    <RootType FullName="Canvas_Interface.Dialogs.CreateAnnouncement" />
+    <RootType FullName="Canvas_Interface.Dialogs.CreateAssignment" />
+    <RootType FullName="Canvas_Interface.Dialogs.CreateAssignmentGroup" />
+    <RootType FullName="Canvas_Interface.Dialogs.CreateFilePath" />
+    <RootType FullName="Canvas_Interface.Dialogs.CreateModule" />
+    <RootType FullName="Canvas_Interface.Dialogs.CreatePageItem" />
+    <RootType FullName="Windows.UI.Xaml.Controls.RowDefinition">
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ColumnDefinition">
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="Canvas_Interface.Dialogs.StudentCreate" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Border">
+      <RootProperty Name="Background" />
+      <RootProperty Name="CornerRadius" />
+      <RootProperty Name="Child" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Content" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="FocusVisualPrimaryBrush" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="Canvas_Interface.MainPage" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ListBox">
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="SelectedItem" />
+      <RootProperty Name="Background" />
+    </RootType>
+    <RootType FullName="Canvas_Interface.View.AddAssignmentToModule" />
+    <RootType FullName="Canvas_Interface.View.CourseAssignmentView" />
+    <RootType FullName="Canvas_Interface.View.CourseEdit" />
+    <RootType FullName="Canvas_Interface.View.CourseStudentView" />
+    <RootType FullName="Canvas_Interface.View.EditAnnouncements" />
+    <RootType FullName="Canvas_Interface.View.EditCourseModuleViewModule" />
+    <RootType FullName="Canvas_Interface.View.InstructorView" />
+    <RootType FullName="Canvas_Interface.View.NewStudentView" />
+  </Roots.RootTypes>
+</Roots>

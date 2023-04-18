@@ -1,0 +1,10 @@
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\UWP.Library.CanvasApp\obj\Debug\netstandard2.0\UWP.Library.CanvasApp.csproj.AssemblyReference.cache
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\UWP.Library.CanvasApp\obj\Debug\netstandard2.0\UWP.Library.CanvasApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\UWP.Library.CanvasApp\obj\Debug\netstandard2.0\UWP.Library.CanvasApp.AssemblyInfoInputs.cache
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\UWP.Library.CanvasApp\obj\Debug\netstandard2.0\UWP.Library.CanvasApp.AssemblyInfo.cs
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\UWP.Library.CanvasApp\obj\Debug\netstandard2.0\UWP.Library.CanvasApp.csproj.CoreCompileInputs.cache
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\UWP.Library.CanvasApp\bin\Debug\netstandard2.0\UWP.Library.CanvasApp.deps.json
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\UWP.Library.CanvasApp\bin\Debug\netstandard2.0\UWP.Library.CanvasApp.dll
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\UWP.Library.CanvasApp\bin\Debug\netstandard2.0\UWP.Library.CanvasApp.pdb
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\UWP.Library.CanvasApp\obj\Debug\netstandard2.0\UWP.Library.CanvasApp.dll
+C:\Users\zdeag\source\repos\New-Canvas-Apllication\UWP.Library.CanvasApp\obj\Debug\netstandard2.0\UWP.Library.CanvasApp.pdb

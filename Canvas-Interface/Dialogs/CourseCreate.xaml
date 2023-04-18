@@ -1,0 +1,41 @@
+﻿<ContentDialog
+    x:Class="Canvas_Interface.Dialogs.CourseCreate"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Canvas_Interface.Dialogs"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="Create Course"
+    PrimaryButtonText="Save"
+    SecondaryButtonText="Cancel"
+    PrimaryButtonClick="ContentDialog_PrimaryButtonClick"
+    SecondaryButtonClick="ContentDialog_SecondaryButtonClick">
+
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Course Code" Style="{StaticResource TitleTextBlockStyle}" />
+            <TextBox Text="{Binding Code, Mode=TwoWay}" />
+
+            <TextBlock Text="Course Name" Style="{StaticResource TitleTextBlockStyle}" />
+            <TextBox Text="{Binding Name, Mode=TwoWay}"/>
+
+            <TextBlock Text="Description" Style="{StaticResource TitleTextBlockStyle}" />
+            <TextBox Text="{Binding Description, Mode=TwoWay}"/>
+            
+            <TextBlock Text="Room Location" Style="{StaticResource TitleTextBlockStyle}" />
+            <TextBox Text="{Binding roomNumber, Mode=TwoWay}"/>
+
+            <TextBlock Text="Credit Hours" Style="{StaticResource TitleTextBlockStyle}" />
+            <TextBox Text="{Binding CreditHours, Mode=TwoWay}"/>
+
+            <TextBlock Text="Semester" Style="{StaticResource TitleTextBlockStyle}" />
+            <ComboBox x:Name="cmbClassification" SelectedItem="{Binding Semester, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+                <ComboBoxItem Content="Spring" />
+                <ComboBoxItem Content="Summer" />
+                <ComboBoxItem Content="Fall" />
+            </ComboBox>
+
+        </StackPanel>
+    </Grid>
+</ContentDialog>
